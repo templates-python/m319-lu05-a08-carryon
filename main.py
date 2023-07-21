@@ -1,11 +1,14 @@
 def main_condition():
-    # Write your program with a condition here and remove the line "pass"
-    pass
+    carry_on = input('Carry on?\n')
+    while carry_on != 'no':
+        carry_on = input('Carry on?\n')
 
 
 def main_infinite():
-    # Write your program with break here and remove the line "pass"
-    pass
+    while True:
+        carry_on = input('Carry on?\n')
+        if carry_on == 'no':
+            break
 
 
 if __name__ == '__main__':
