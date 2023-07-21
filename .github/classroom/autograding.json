@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "condition_1",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -k \"test_condition_1\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "condition_2",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -k \"test_condition_2\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "infinite_1",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -k \"test_infinite_1\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "infinite_2",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -k \"test_infinite_2\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
