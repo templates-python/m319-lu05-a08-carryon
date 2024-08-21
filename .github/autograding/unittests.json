@@ -1,0 +1,26 @@
+[
+  {
+    "name": "condition_1",
+    "function": "condition_1",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "condition_2",
+    "function": "condition_2",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "infinite_1",
+    "function": "infinite_1",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "infinite_2",
+    "function": "infinite_2",
+    "timeout": 10,
+    "points": 1
+  }
+]
