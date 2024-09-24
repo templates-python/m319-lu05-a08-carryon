@@ -1,25 +1,25 @@
 [
   {
-    "name": "condition_1",
-    "function": "condition_1",
+    "name": "test_condition_1",
+    "function": "test_condition_1",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "condition_2",
-    "function": "condition_2",
+    "name": "test_condition_2",
+    "function": "test_condition_2",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "infinite_1",
-    "function": "infinite_1",
+    "name": "test_infinite_1",
+    "function": "test_infinite_1",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "infinite_2",
-    "function": "infinite_2",
+    "name": "test_infinite_2",
+    "function": "test_infinite_2",
     "timeout": 10,
     "points": 1
   }
